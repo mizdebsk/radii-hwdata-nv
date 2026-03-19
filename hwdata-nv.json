@@ -10075,9 +10075,9 @@
     {
       "devid": "0x1340",
       "name": "NVIDIA GeForce 830M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10085,17 +10085,17 @@
       "subdevid": "0x2B2B",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce 830A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1341",
       "name": "NVIDIA GeForce 840M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10103,9 +10103,9 @@
       "subdevid": "0x3697",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 840A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10113,9 +10113,9 @@
       "subdevid": "0x3699",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 840A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10123,9 +10123,9 @@
       "subdevid": "0x369C",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 840A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10133,25 +10133,25 @@
       "subdevid": "0x36AF",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 840A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1344",
       "name": "NVIDIA GeForce 845M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1346",
       "name": "NVIDIA GeForce 930M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10159,9 +10159,9 @@
       "subdevid": "0x30BA",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10169,9 +10169,9 @@
       "subdevid": "0x362C",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10179,9 +10179,9 @@
       "subdevid": "0x362F",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10189,17 +10189,17 @@
       "subdevid": "0x3636",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1347",
       "name": "NVIDIA GeForce 940M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10207,9 +10207,9 @@
       "subdevid": "0x36B9",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 940A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10217,17 +10217,17 @@
       "subdevid": "0x36BA",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 940A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1348",
       "name": "NVIDIA GeForce 945M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10235,17 +10235,17 @@
       "subdevid": "0x2B5C",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce 945A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1349",
       "name": "NVIDIA GeForce 930M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10253,9 +10253,9 @@
       "subdevid": "0x3124",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10263,9 +10263,9 @@
       "subdevid": "0x364B",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10273,9 +10273,9 @@
       "subdevid": "0x36C3",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10283,9 +10283,9 @@
       "subdevid": "0x36D1",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10293,49 +10293,41 @@
       "subdevid": "0x36D8",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce 930A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x134B",
       "name": "NVIDIA GeForce 940MX",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x134D",
       "name": "NVIDIA GeForce 940MX",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x134E",
       "name": "NVIDIA GeForce 930MX",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x134F",
       "name": "NVIDIA GeForce 920MX",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
-      ]
-    },
-    {
-      "devid": "0x137A",
-      "name": "NVIDIA N15M-Q3",
-      "legacybranch": "580.xx",
-      "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10343,9 +10335,9 @@
       "subdevid": "0x2225",
       "subvendorid": "0x17AA",
       "name": "Quadro K620M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10353,9 +10345,9 @@
       "subdevid": "0x2232",
       "subvendorid": "0x17AA",
       "name": "Quadro M500M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10363,67 +10355,57 @@
       "subdevid": "0x505A",
       "subvendorid": "0x17AA",
       "name": "Quadro M500M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x137B",
       "name": "Quadro M520",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
-      ]
-    },
-    {
-      "devid": "0x137D",
-      "subdevid": "0x3699",
-      "subvendorid": "0x17AA",
-      "name": "NVIDIA GeForce 940A",
-      "legacybranch": "580.xx",
-      "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1380",
       "name": "NVIDIA GeForce GTX 750 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1381",
       "name": "NVIDIA GeForce GTX 750",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1382",
       "name": "NVIDIA GeForce GTX 745",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1390",
       "name": "NVIDIA GeForce 845M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1391",
       "name": "NVIDIA GeForce GTX 850M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10431,17 +10413,17 @@
       "subdevid": "0x3697",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 850A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1392",
       "name": "NVIDIA GeForce GTX 860M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10449,9 +10431,9 @@
       "subdevid": "0x066A",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GPU",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10459,9 +10441,9 @@
       "subdevid": "0x861E",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 750 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10469,41 +10451,41 @@
       "subdevid": "0x86D9",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 750 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1393",
       "name": "NVIDIA GeForce 840M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1398",
       "name": "NVIDIA GeForce 845M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1399",
       "name": "NVIDIA GeForce 945M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x139A",
       "name": "NVIDIA GeForce GTX 950M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10511,9 +10493,9 @@
       "subdevid": "0x362C",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 950A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10521,9 +10503,9 @@
       "subdevid": "0x362F",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 950A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10531,9 +10513,9 @@
       "subdevid": "0x363F",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 950A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10541,9 +10523,9 @@
       "subdevid": "0x3640",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 950A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10551,9 +10533,9 @@
       "subdevid": "0x3647",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 950A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10561,17 +10543,17 @@
       "subdevid": "0x36B9",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 950A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x139B",
       "name": "NVIDIA GeForce GTX 960M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10579,9 +10561,9 @@
       "subdevid": "0x107A",
       "subvendorid": "0x1025",
       "name": "NVIDIA GeForce GTX 750 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10589,9 +10571,9 @@
       "subdevid": "0x06A3",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 860M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10599,9 +10581,9 @@
       "subdevid": "0x2B4C",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 960A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10609,9 +10591,9 @@
       "subdevid": "0x3649",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 750Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10619,9 +10601,9 @@
       "subdevid": "0x36BF",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 960A",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10629,9 +10611,9 @@
       "subdevid": "0xC248",
       "subvendorid": "0x19DA",
       "name": "NVIDIA GeForce GTX 750 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10639,137 +10621,137 @@
       "subdevid": "0x8A75",
       "subvendorid": "0x1AFA",
       "name": "NVIDIA GeForce GTX 750Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x139C",
       "name": "NVIDIA GeForce 940M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x139D",
       "name": "NVIDIA GeForce GTX 750 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13B0",
       "name": "Quadro M2000M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13B1",
       "name": "Quadro M1000M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13B2",
       "name": "Quadro M600M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13B3",
       "name": "Quadro K2200M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13B4",
       "name": "Quadro M620",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13B6",
       "name": "Quadro M1200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13B9",
       "name": "NVS 810",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13BA",
       "name": "Quadro K2200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13BB",
       "name": "Quadro K620",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13BC",
       "name": "Quadro K1200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13C0",
       "name": "NVIDIA GeForce GTX 980",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13C2",
       "name": "NVIDIA GeForce GTX 970",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13D7",
       "name": "NVIDIA GeForce GTX 980M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13D8",
       "name": "NVIDIA GeForce GTX 970M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10777,9 +10759,9 @@
       "subdevid": "0x1198",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 960",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10787,9 +10769,9 @@
       "subdevid": "0x1199",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 960",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10797,9 +10779,9 @@
       "subdevid": "0xB282",
       "subvendorid": "0x19DA",
       "name": "NVIDIA GeForce GTX 960",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10807,9 +10789,9 @@
       "subdevid": "0xB284",
       "subvendorid": "0x19DA",
       "name": "NVIDIA GeForce GTX 960",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10817,65 +10799,65 @@
       "subdevid": "0xB286",
       "subvendorid": "0x19DA",
       "name": "NVIDIA GeForce GTX 960",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13D9",
       "name": "NVIDIA GeForce GTX 965M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13DA",
       "name": "NVIDIA GeForce GTX 980",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13F0",
       "name": "Quadro M5000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13F1",
       "name": "Quadro M4000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13F2",
       "name": "Tesla M60",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13F3",
       "name": "Tesla M6",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13F8",
       "name": "Quadro M5000M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10883,25 +10865,25 @@
       "subdevid": "0x11DD",
       "subvendorid": "0x10DE",
       "name": "Quadro M5000 SE",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13F9",
       "name": "Quadro M4000M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13FA",
       "name": "Quadro M3000M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10909,57 +10891,57 @@
       "subdevid": "0x11C9",
       "subvendorid": "0x10DE",
       "name": "Quadro M3000 SE",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x13FB",
       "name": "Quadro M5500",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1401",
       "name": "NVIDIA GeForce GTX 960",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1402",
       "name": "NVIDIA GeForce GTX 950",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetF"
       ]
     },
     {
       "devid": "0x1406",
       "name": "NVIDIA GeForce GTX 960",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1407",
       "name": "NVIDIA GeForce GTX 750",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1427",
       "name": "NVIDIA GeForce GTX 965M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -10967,169 +10949,177 @@
       "subdevid": "0xD003",
       "subvendorid": "0x1458",
       "name": "NVIDIA GeForce GTX 950",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetF"
       ]
     },
     {
       "devid": "0x1430",
       "name": "Quadro M2000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetF"
       ]
     },
     {
       "devid": "0x1431",
       "name": "Tesla M4",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetF"
       ]
     },
     {
       "devid": "0x1436",
       "name": "Quadro M2200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetF"
       ]
     },
     {
       "devid": "0x15F0",
       "name": "Quadro GP100",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetG"
       ]
     },
     {
       "devid": "0x15F7",
       "name": "Tesla P100-PCIE-12GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetG"
       ]
     },
     {
       "devid": "0x15F8",
       "name": "Tesla P100-PCIE-16GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetG"
       ]
     },
     {
       "devid": "0x15F9",
       "name": "Tesla P100-SXM2-16GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetG"
       ]
     },
     {
       "devid": "0x1617",
       "name": "NVIDIA GeForce GTX 980M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1618",
       "name": "NVIDIA GeForce GTX 970M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1619",
       "name": "NVIDIA GeForce GTX 965M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x161A",
       "name": "NVIDIA GeForce GTX 980",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1667",
       "name": "NVIDIA GeForce GTX 965M",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x174D",
       "name": "NVIDIA GeForce MX130",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x174E",
       "name": "NVIDIA GeForce MX110",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x179C",
       "name": "NVIDIA GeForce 940MX",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x17C2",
       "name": "NVIDIA GeForce GTX TITAN X",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x17C8",
       "name": "NVIDIA GeForce GTX 980 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x17F0",
       "name": "Quadro M6000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x17F1",
       "name": "Quadro M6000 24GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x17FD",
       "name": "Tesla M40",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
@@ -11137,25 +11127,29 @@
       "subdevid": "0x1173",
       "subvendorid": "0x10DE",
       "name": "Tesla M40 24GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "hdmi4k",
+        "vdpaufeaturesetE"
       ]
     },
     {
       "devid": "0x1B00",
       "name": "NVIDIA TITAN X (Pascal)",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1B02",
       "name": "NVIDIA TITAN Xp",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11163,9 +11157,11 @@
       "subdevid": "0x123E",
       "subvendorid": "0x10DE",
       "name": "NVIDIA TITAN Xp COLLECTORS EDITION",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11173,89 +11169,111 @@
       "subdevid": "0x123F",
       "subvendorid": "0x10DE",
       "name": "NVIDIA TITAN Xp COLLECTORS EDITION",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1B06",
       "name": "NVIDIA GeForce GTX 1080 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1B30",
       "name": "Quadro P6000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1B38",
       "name": "Tesla P40",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1B80",
       "name": "NVIDIA GeForce GTX 1080",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1B81",
       "name": "NVIDIA GeForce GTX 1070",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1B82",
       "name": "NVIDIA GeForce GTX 1070 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1B83",
       "name": "NVIDIA GeForce GTX 1060 6GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1B84",
       "name": "NVIDIA GeForce GTX 1060 3GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1B87",
       "name": "NVIDIA P104-100",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BA0",
       "name": "NVIDIA GeForce GTX 1080",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11263,17 +11281,21 @@
       "subdevid": "0x0887",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BA1",
       "name": "NVIDIA GeForce GTX 1070",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11281,9 +11303,11 @@
       "subdevid": "0x08A1",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11291,9 +11315,11 @@
       "subdevid": "0x08A2",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11301,9 +11327,11 @@
       "subdevid": "0x1CCE",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11311,9 +11339,11 @@
       "subdevid": "0x1651",
       "subvendorid": "0x1458",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11321,9 +11351,11 @@
       "subdevid": "0x1653",
       "subvendorid": "0x1458",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11331,9 +11363,11 @@
       "subdevid": "0x11E8",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11341,9 +11375,11 @@
       "subdevid": "0x11E9",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11351,9 +11387,11 @@
       "subdevid": "0x1225",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11361,9 +11399,11 @@
       "subdevid": "0x1226",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11371,9 +11411,11 @@
       "subdevid": "0x1227",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11381,9 +11423,11 @@
       "subdevid": "0x9501",
       "subvendorid": "0x1558",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11391,9 +11435,11 @@
       "subdevid": "0x95E1",
       "subvendorid": "0x1558",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11401,9 +11447,11 @@
       "subdevid": "0x2000",
       "subvendorid": "0x1A58",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11411,57 +11459,85 @@
       "subdevid": "0x1032",
       "subvendorid": "0x1D05",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BA2",
       "name": "NVIDIA GeForce GTX 1070",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB0",
       "name": "Quadro P5000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB1",
       "name": "Quadro P4000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB3",
+      "subdevid": "0x11D8",
+      "subvendorid": "0x10DE",
       "name": "Tesla P4",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
+      ]
+    },
+    {
+      "devid": "0x1BB3",
+      "subdevid": "0x11E0",
+      "subvendorid": "0x10DE",
+      "name": "Tesla P4",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB4",
       "name": "Tesla P6",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB5",
       "name": "Quadro P5200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11469,9 +11545,11 @@
       "subdevid": "0x2268",
       "subvendorid": "0x17AA",
       "name": "Quadro P5200 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11479,25 +11557,31 @@
       "subdevid": "0x2269",
       "subvendorid": "0x17AA",
       "name": "Quadro P5200 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB6",
       "name": "Quadro P5000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB7",
       "name": "Quadro P4000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11505,9 +11589,11 @@
       "subdevid": "0x11E9",
       "subvendorid": "0x1462",
       "name": "Quadro P4000 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11515,25 +11601,31 @@
       "subdevid": "0x9501",
       "subvendorid": "0x1558",
       "name": "Quadro P4000 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB8",
       "name": "Quadro P3000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BB9",
       "name": "Quadro P4200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11541,9 +11633,11 @@
       "subdevid": "0x95E1",
       "subvendorid": "0x1558",
       "name": "Quadro P4200 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11551,9 +11645,11 @@
       "subdevid": "0x2268",
       "subvendorid": "0x17AA",
       "name": "Quadro P4200 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11561,17 +11657,21 @@
       "subdevid": "0x2269",
       "subvendorid": "0x17AA",
       "name": "Quadro P4200 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BBB",
       "name": "Quadro P3200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11579,9 +11679,11 @@
       "subdevid": "0x225F",
       "subvendorid": "0x17AA",
       "name": "Quadro P3200 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11589,25 +11691,31 @@
       "subdevid": "0x2262",
       "subvendorid": "0x17AA",
       "name": "Quadro P3200 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BC7",
-      "name": "NVIDIA P104-101 (GP104)",
-      "legacybranch": "580.xx",
+      "name": "NVIDIA P104-101",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BE0",
       "name": "NVIDIA GeForce GTX 1080",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11615,9 +11723,11 @@
       "subdevid": "0x1221",
       "subvendorid": "0x1025",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11625,9 +11735,11 @@
       "subdevid": "0x123E",
       "subvendorid": "0x1025",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11635,9 +11747,11 @@
       "subdevid": "0x07C0",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11645,9 +11759,11 @@
       "subdevid": "0x0876",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11655,9 +11771,11 @@
       "subdevid": "0x088B",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11665,9 +11783,11 @@
       "subdevid": "0x1031",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11675,9 +11795,11 @@
       "subdevid": "0x1BF0",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11685,17 +11807,21 @@
       "subdevid": "0x355B",
       "subvendorid": "0x1458",
       "name": "NVIDIA GeForce GTX 1080 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1BE1",
       "name": "NVIDIA GeForce GTX 1070",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11703,9 +11829,11 @@
       "subdevid": "0x84DB",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11713,9 +11841,11 @@
       "subdevid": "0x16F0",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
@@ -11723,65 +11853,81 @@
       "subdevid": "0x2009",
       "subvendorid": "0x3842",
       "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1C02",
       "name": "NVIDIA GeForce GTX 1060 3GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1C03",
       "name": "NVIDIA GeForce GTX 1060 6GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1C04",
       "name": "NVIDIA GeForce GTX 1060 5GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C06",
       "name": "NVIDIA GeForce GTX 1060 6GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH2"
       ]
     },
     {
       "devid": "0x1C07",
       "name": "NVIDIA P106-100",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C09",
       "name": "NVIDIA P106-090",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C20",
       "name": "NVIDIA GeForce GTX 1060",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11789,9 +11935,11 @@
       "subdevid": "0x0802",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11799,9 +11947,11 @@
       "subdevid": "0x0803",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11809,9 +11959,11 @@
       "subdevid": "0x0825",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11819,9 +11971,11 @@
       "subdevid": "0x0827",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11829,9 +11983,11 @@
       "subdevid": "0x0885",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11839,9 +11995,11 @@
       "subdevid": "0x0886",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11849,9 +12007,11 @@
       "subdevid": "0x8467",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11859,9 +12019,11 @@
       "subdevid": "0x8478",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11869,9 +12031,11 @@
       "subdevid": "0x8581",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11879,9 +12043,11 @@
       "subdevid": "0x1244",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11889,9 +12055,11 @@
       "subdevid": "0x95E5",
       "subvendorid": "0x1558",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11899,9 +12067,11 @@
       "subdevid": "0x39B9",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11909,9 +12079,11 @@
       "subdevid": "0x2000",
       "subvendorid": "0x1A58",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11919,9 +12091,11 @@
       "subdevid": "0x2001",
       "subvendorid": "0x1A58",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11929,57 +12103,71 @@
       "subdevid": "0x1059",
       "subvendorid": "0x1D05",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C21",
       "name": "NVIDIA GeForce GTX 1050 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C22",
       "name": "NVIDIA GeForce GTX 1050",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C23",
       "name": "NVIDIA GeForce GTX 1060",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C30",
       "name": "Quadro P2000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C31",
       "name": "Quadro P2200",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C60",
       "name": "NVIDIA GeForce GTX 1060",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11987,9 +12175,11 @@
       "subdevid": "0x8390",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -11997,57 +12187,71 @@
       "subdevid": "0x8467",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1060 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C61",
       "name": "NVIDIA GeForce GTX 1050 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C62",
       "name": "NVIDIA GeForce GTX 1050",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C81",
       "name": "NVIDIA GeForce GTX 1050",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C82",
       "name": "NVIDIA GeForce GTX 1050 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C83",
       "name": "NVIDIA GeForce GTX 1050",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C8C",
       "name": "NVIDIA GeForce GTX 1050 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12055,9 +12259,11 @@
       "subdevid": "0x087C",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12065,9 +12271,11 @@
       "subdevid": "0x8519",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12075,9 +12283,11 @@
       "subdevid": "0x856A",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12085,9 +12295,11 @@
       "subdevid": "0x123C",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12095,9 +12307,11 @@
       "subdevid": "0x126C",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12105,9 +12319,11 @@
       "subdevid": "0x2266",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12115,9 +12331,11 @@
       "subdevid": "0x2267",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12125,17 +12343,21 @@
       "subdevid": "0x39FF",
       "subvendorid": "0x17AA",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C8D",
       "name": "NVIDIA GeForce GTX 1050",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12143,9 +12365,11 @@
       "subdevid": "0x84E9",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12153,9 +12377,11 @@
       "subdevid": "0x84EB",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12163,9 +12389,11 @@
       "subdevid": "0x856A",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12173,9 +12401,11 @@
       "subdevid": "0x114F",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12183,9 +12413,11 @@
       "subdevid": "0x1341",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12193,9 +12425,11 @@
       "subdevid": "0x1351",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12203,9 +12437,11 @@
       "subdevid": "0x1481",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12213,9 +12449,11 @@
       "subdevid": "0x14A1",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12223,9 +12461,11 @@
       "subdevid": "0x18C1",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12233,9 +12473,11 @@
       "subdevid": "0x1B5E",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12243,9 +12485,11 @@
       "subdevid": "0x126C",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12253,9 +12497,11 @@
       "subdevid": "0x1217",
       "subvendorid": "0x152D",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12263,17 +12509,21 @@
       "subdevid": "0x1707",
       "subvendorid": "0x1D72",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C8F",
       "name": "NVIDIA GeForce GTX 1050 Ti",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12281,9 +12531,11 @@
       "subdevid": "0x123C",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12291,9 +12543,11 @@
       "subdevid": "0x126C",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12301,9 +12555,11 @@
       "subdevid": "0x126D",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12311,9 +12567,11 @@
       "subdevid": "0x1284",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12321,17 +12579,21 @@
       "subdevid": "0x1297",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C90",
       "name": "NVIDIA GeForce MX150",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12339,17 +12601,21 @@
       "subdevid": "0x09C1",
       "subvendorid": "0x1028",
       "name": "NVIDIA GeForce MX250",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C91",
       "name": "NVIDIA GeForce GTX 1050",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12357,9 +12623,11 @@
       "subdevid": "0x856A",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12367,9 +12635,11 @@
       "subdevid": "0x86E3",
       "subvendorid": "0x103C",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12377,17 +12647,21 @@
       "subdevid": "0x1232",
       "subvendorid": "0x152D",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C92",
       "name": "NVIDIA GeForce GTX 1050",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12395,9 +12669,11 @@
       "subdevid": "0x149F",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12405,9 +12681,11 @@
       "subdevid": "0x1B31",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12415,9 +12693,11 @@
       "subdevid": "0x1245",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12425,65 +12705,81 @@
       "subdevid": "0x126C",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C94",
       "name": "NVIDIA GeForce MX350",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1C96",
       "name": "NVIDIA GeForce MX350",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CB1",
       "name": "Quadro P1000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CB2",
       "name": "Quadro P600",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CB3",
       "name": "Quadro P400",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CB6",
       "name": "Quadro P620",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CBA",
       "name": "Quadro P2000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12491,9 +12787,11 @@
       "subdevid": "0x2266",
       "subvendorid": "0x17AA",
       "name": "Quadro P2000 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12501,49 +12799,61 @@
       "subdevid": "0x2267",
       "subvendorid": "0x17AA",
       "name": "Quadro P2000 with Max-Q Design",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CBB",
       "name": "Quadro P1000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CBC",
       "name": "Quadro P600",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CBD",
       "name": "Quadro P620",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CFA",
       "name": "Quadro P2000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1CFB",
       "name": "Quadro P1000",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12551,9 +12861,11 @@
       "subdevid": "0x2600",
       "subvendorid": "0x102B",
       "name": "Matrox D-Series D1480",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
@@ -12561,105 +12873,131 @@
       "subdevid": "0x2700",
       "subvendorid": "0x102B",
       "name": "Matrox D-Series D1450",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D01",
       "name": "NVIDIA GeForce GT 1030",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D02",
       "name": "NVIDIA GeForce GT 1010",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D10",
       "name": "NVIDIA GeForce MX150",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D11",
       "name": "NVIDIA GeForce MX230",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D12",
       "name": "NVIDIA GeForce MX150",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D13",
       "name": "NVIDIA GeForce MX250",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D16",
       "name": "NVIDIA GeForce MX330",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D33",
       "name": "Quadro P500",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D34",
       "name": "Quadro P520",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D52",
       "name": "NVIDIA GeForce MX250",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetH"
       ]
     },
     {
       "devid": "0x1D81",
       "name": "NVIDIA TITAN V",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DB1",
       "name": "Tesla V100-SXM2-16GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
@@ -12667,25 +13005,31 @@
       "subdevid": "0x1307",
       "subvendorid": "0x10DE",
       "name": "Tesla V100-SXM2-16GB-LS",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DB3",
       "name": "Tesla V100-FHHL-16GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DB4",
       "name": "Tesla V100-PCIE-16GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
@@ -12693,17 +13037,21 @@
       "subdevid": "0x1306",
       "subvendorid": "0x10DE",
       "name": "Tesla V100-PCIE-16GB-LS",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DB5",
       "name": "Tesla V100-SXM2-32GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
@@ -12711,33 +13059,41 @@
       "subdevid": "0x1308",
       "subvendorid": "0x10DE",
       "name": "Tesla V100-SXM2-32GB-LS",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DB6",
       "name": "Tesla V100-PCIE-32GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DB7",
       "name": "Tesla V100-DGXS-32GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DB8",
       "name": "Tesla V100-SXM3-32GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
@@ -12745,17 +13101,21 @@
       "subdevid": "0x131D",
       "subvendorid": "0x10DE",
       "name": "Tesla V100-SXM3-32GB-H",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DBA",
       "name": "Quadro GV100",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
@@ -12763,41 +13123,41 @@
       "subdevid": "0x12EB",
       "subvendorid": "0x10DE",
       "name": "NVIDIA TITAN V JHH Special Edition",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DF0",
       "name": "Tesla PG500-216",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DF2",
       "name": "Tesla PG503-216",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
-      ]
-    },
-    {
-      "devid": "0x1DF5",
-      "name": "Tesla V100-SXM2-16GB",
-      "legacybranch": "580.xx",
-      "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
       "devid": "0x1DF6",
       "name": "Tesla V100S-PCIE-32GB",
-      "legacybranch": "580.xx",
       "features": [
-        "kernelopen"
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "vdpaufeaturesetI"
       ]
     },
     {
