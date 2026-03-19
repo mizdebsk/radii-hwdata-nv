@@ -22902,6 +22902,22 @@
     },
     {
       "devid": "0x25B2",
+      "subdevid": "0x8F5B",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA RTX A400",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen",
+        "gsp_proprietary_supported"
+      ]
+    },
+    {
+      "devid": "0x25B2",
       "subdevid": "0x1879",
       "subvendorid": "0x10DE",
       "name": "NVIDIA RTX A400",
@@ -24763,6 +24779,21 @@
     {
       "devid": "0x2BB5",
       "subdevid": "0x204E",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2BB5",
+      "subdevid": "0x220B",
       "subvendorid": "0x10DE",
       "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
       "features": [
