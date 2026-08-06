@@ -2,9 +2,9 @@
 
 Hardware database for NVIDIA GPU chips.
 
-Version: 0.46.126.20
+Version: 0.50.159.03
 
 Based on data obtained from:
-https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvidia-driver-assistant-0.46.126.20-1.noarch.rpm
+https://developer.download.nvidia.com/compute/cuda/repos/rhel10/x86_64/nvidia-driver-assistant-0.50.159.03-1.noarch.rpm
 
 Licensed under MIT license, see the LICENSE file.
