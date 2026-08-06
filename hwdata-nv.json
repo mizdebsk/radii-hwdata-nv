@@ -25434,6 +25434,62 @@
       ]
     },
     {
+      "devid": "0x2E03",
+      "subdevid": "0x1484",
+      "subvendorid": "0x1043",
+      "name": "NVIDIA RTX Spark N1X (6144-core Blackwell RTX GPU)",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2E03",
+      "subdevid": "0x3309",
+      "subvendorid": "0x1043",
+      "name": "NVIDIA RTX Spark N1X (6144-core Blackwell RTX GPU)",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2E06",
+      "subdevid": "0x1484",
+      "subvendorid": "0x1043",
+      "name": "NVIDIA RTX Spark N1X (5120-core Blackwell RTX GPU)",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2E06",
+      "subdevid": "0x3309",
+      "subvendorid": "0x1043",
+      "name": "NVIDIA RTX Spark N1X (5120-core Blackwell RTX GPU)",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x2E12",
       "subdevid": "0x21EC",
       "subvendorid": "0x10DE",
