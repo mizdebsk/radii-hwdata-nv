@@ -25461,6 +25461,19 @@
       ]
     },
     {
+      "devid": "0x2F06",
+      "name": "NVIDIA GeForce RTX 5060",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x2F18",
       "name": "NVIDIA GeForce RTX 5070 Ti Laptop GPU",
       "features": [
