@@ -24498,6 +24498,21 @@
       ]
     },
     {
+      "devid": "0x2941",
+      "subdevid": "0x22C4",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA GB200",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x29BB",
       "subdevid": "0x207C",
       "subvendorid": "0x10DE",
@@ -24882,6 +24897,19 @@
     {
       "devid": "0x2C05",
       "name": "NVIDIA GeForce RTX 5070 Ti",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2C09",
+      "name": "NVIDIA GeForce RTX 5070",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
